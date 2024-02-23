@@ -1,5 +1,5 @@
 body {
-	background-color: #282828;
+	background-color: #ff7700;
 }
 
 a {
@@ -9,7 +9,7 @@ a {
 /* MAIN ////////////////////////////////////////////////////////////// */
 
 main {
-	background-color: #fff;
+	background-color: #e4fff4;
 }
 
 main .content {
@@ -19,11 +19,11 @@ main .content {
 
 main .pg-header {
 	padding: 60px 0;
-	background: #e6e6e6;
+	background: #b700ff;
 }
 
 main .pg-header h1 {
-	color: #333;
+	color: #ffffff;
 	font-weight: 600;
 	font-size: 32px;
 	text-transform: uppercase;
@@ -70,7 +70,7 @@ main .pg-header h1 {
 	width: 50px;
 	bottom: -6px;
 	height: 2px;
-	background-color: #666;
+	background-color: #199c37;
 	left: 0;
 }
 
@@ -94,7 +94,7 @@ main .pg-header h1 {
 
 .card {
 	border-radius: 0;
-	box-shadow: 0px 10px 10px #eee;
+	box-shadow: 0px 10px 10px #c1f7cd;
 }
 
 .card .card-title {
@@ -120,7 +120,7 @@ main .pg-header h1 {
 }
 
 .card .price {
-	color: #0d6efd;
+	color: #fd0dad;
 }
 
 .card .btn-primary {
@@ -155,53 +155,31 @@ main .pg-header h1 {
 }
 
 .single .price strong {
-	color: #0a58ca;
-}
-
-/* POSTS ////////////////////////////////////////////////////////////// */
-
-.posts .col-sm-6 {
-	margin-bottom: 20px;
-}
-
-.posts .card-title {
-	text-transform: capitalize;
-}
-
-.posts .card-text {
-	text-align: center;
+	color: #afe62f;
 }
 
 /* HEADER ////////////////////////////////////////////////////////////// */
 
 header {
-	padding: 20px 0;
-	background-color: #000;
+	padding: 20px;
+	background-color: #07b8d3;
 }
 
-header .logo {
-	transform: rotate(-6deg);
-	transition: all 0.3s ease;
-}
-
-header .logo:hover {
-	transform: rotate(0deg);
-}
 
 header .brand {
 	font-size: 30px;
 	color: #fff;
 	font-weight: 700;
-	font-family: 'Leckerli One', cursive;
-	background-color: #2d2d2d;
-	border-radius: 40px;
-	border-bottom: 2px solid #6294de;
-	text-shadow: 2px 2px 0px #000;
-}
+	background-color: #5fd45b;
+	border-radius: 10px;
+	padding: 4px 8px;
+	border-bottom: 4px solid #e91288;
+  }
+  
 
 header .nav-link {
 	font-weight: 700;
-	color: #999;
+	color: #fffcfc;
 	border-radius: 0;
 	font-size: 14px;
 }
@@ -217,7 +195,7 @@ footer {
 }
 
 footer .nav-link {
-	color: rgba(255, 255, 255, 0.75);
+	color: rgb(255, 255, 255);
 	padding-left: 0;
 	padding-right: 0;
 	margin: 0 10px;
@@ -233,7 +211,7 @@ footer .nav-link.active {
 }
 
 footer .copyrights {
-	color: rgba(255, 255, 255, 0.75);
+	color: rgb(255, 255, 255);
 	text-align: center;
 	margin-top: 10px;
 }

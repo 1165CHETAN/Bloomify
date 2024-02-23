@@ -4,12 +4,11 @@ const Home = () => {
     <main>
       <div className="pg-header">
         <div className="container">
-          <h1>Welcome to WebStylePress</h1>
+          <h1>Welcome to Bloomify!!🪻</h1>
         </div>
       </div>
       <div className="container content">
-      <p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo. Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut. Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo. Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
-      <p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo. Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut. Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo. Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
+      <p>"Welcome to Seeds of Sustainability🍂🍃🌱, where every seed planted is a promise for a greener tomorrow. Our online store is dedicated to providing gardeners with the finest selection of seeds for sustainable gardening practices. Join us in nurturing biodiverse landscapes, conserving water, and enhancing the beauty of our planet, one seed at a time. Let's sow the seeds of change together and cultivate a brighter future for generations to come."</p>
       </div>
     </main>
   )

@@ -40,7 +40,7 @@ const Products = () => {
                     <p className="card-text">{product.details}</p>
                     <div className="d-flex justify-content-between align-items-center">
                       <span>Price: <strong className="price">{product.price}</strong></span>
-                      <Link to={`/products/${product.id}`} className="btn btn-primary btn-sm">DETAILS &#8594;</Link>
+                      <Link to={`/products/${product.id}`} className="btn btn-warning btn-sm text-light">DETAILS &#8594;</Link>
                     </div>
                   </div>
                 </div>

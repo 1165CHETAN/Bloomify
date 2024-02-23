@@ -14,7 +14,7 @@ const SingleProduct = () => {
 
   // console.log(typeof(productId))
 
-  const { id, name, price, image, details } = singleProduct
+  const { id, name, price, image, details, details1 } = singleProduct
 
   // console.log("product id ", productId)
   // console.log("product ", singleProduct)
@@ -48,12 +48,12 @@ const SingleProduct = () => {
           <div className="col-lg-7">
             <h2>{name}</h2>
             <p className="price"><strong>{price}</strong></p>
-            <p>{details} {details} {details} {details} {details} </p>
+            <p>{details} {details1} </p>
 
             <br />
-            <button className="btn btn-primary btn-sm" onClick={() => navigate(-1)}>BACK</button> &nbsp; 
-            <button className="btn btn-primary btn-sm" onClick={() => navigate('/products')}>NAVIGATE TO PRODUCTS</button> &nbsp;
-            <Link to="/products" className="btn btn-primary btn-sm">PRODUCTS</Link>
+            <button className="btn btn-warning btn-sm" onClick={() => navigate(-1)}>BACK</button> &nbsp; 
+            <button className="btn btn-warning btn-sm" onClick={() => navigate('/products')}>NAVIGATE TO PRODUCTS</button> &nbsp;
+            <Link to="/products" className="btn btn-success btn-sm">PRODUCTS</Link>
           </div>
         </div>
       </div>

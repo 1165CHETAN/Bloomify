@@ -7,7 +7,7 @@ const Header = () => {
         <div className='d-flex justify-content-between align-items-center'>
 
           <div className='logo'>
-            <Link to='/' className='brand'>WSP</Link>
+            <Link to='/' className='brand'>🏵️Bloomify</Link>
           </div>
 
           <nav className='nav nav-pills'>
@@ -20,9 +20,7 @@ const Header = () => {
             <NavLink to='products'
               className={(navData) => navData.isActive ? 'nav-link active' : 'nav-link'}
             >Products</NavLink>
-            <NavLink to='posts'
-              className={(navData) => navData.isActive ? 'nav-link active' : 'nav-link'}
-            >Posts</NavLink>
+
           </nav>
 
         </div>
