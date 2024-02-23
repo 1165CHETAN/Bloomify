@@ -1,20 +1,24 @@
-# React Router V6 App / Shop Pages in React JS 
-React Router V6 - Creating Shop in React JS
+## 🌸Bloomify | Your One-Stop Shop for Quality Seeds
 
-## Install Dependencies
+![Screenshot 2024-02-23 102709](https://github.com/1165CHETAN/Bloomify/assets/111604779/e5bf71e4-9d61-40dc-9472-27927c1a0d5a)
 
-npm i
+## Project Setup Instructions
 
-## Run App
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/1165CHETAN/Bloomify
+2. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
 
-npm start
+   ```bash
 
-## Tutorial
+   npm run start
+5. Open your web browser and navigate to the local port provided by the development server. All set!!
 
-React Router v6 | SUPER FAST EASY Routing with Shop Design in React JS
+## Sustainability goals covered
 
-https://youtu.be/atoeEaxtkHw
 
-WebStylePress
-
-https://www.youtube.com/webstylepress
+![Screenshot 2024-02-23 102729](https://github.com/1165CHETAN/Bloomify/assets/111604779/330a5901-e73c-40e7-bea8-3d21c0b77cc4)
